@@ -1,0 +1,8 @@
+<!--start.wxml-->
+<view class="bg">
+<button class="btn1" bindtap="getDataFromOneNet">
+宿舍吵不吵？</button>
+<text id="text">点击查看宿舍情况！</text>
+</view>
+
+
